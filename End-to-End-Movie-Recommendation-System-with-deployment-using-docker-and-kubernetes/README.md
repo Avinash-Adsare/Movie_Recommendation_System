@@ -22,7 +22,7 @@ STEP 4:Model Deployment
 Created model has been containerized using docker and its been pushed to container repository.
 Its then deployed in Kubernetes to manage and increase scalability of the application.
 
-![image](https://user-images.githubusercontent.com/64595758/130807050-ab633c7c-5f54-448a-9fc7-aa680756736d.png)
+![image](https://medianama.com/wp-content/uploads/2020/10/Netflix.png.png)
 
 Application url- http://35.230.8.59/
 
@@ -30,9 +30,4 @@ This application frontend is dynamic and changes based on system theme.If you wa
 
 
 
-P.S-This is a simple model built out of curiosity.There are lot more complex and advanced algorithms that could be implemented to create a recommendation engine.
-
-I hope this a stepping stone for more advanced things.
-
-Happy Learning!
 
